@@ -14,7 +14,7 @@
   - [Business Plan](https://drive.google.com/drive/folders/1vba53pezsjjeeDEF9PczFEdkCgoWtzyw)
   - [Commonly used ports in networking](https://drive.google.com/drive/folders/1oYFrwct63Wynlo1SekTBr-yMfmyZyC_U)
   - [Cybersecurity Vocabulary](https://drive.google.com/drive/folders/1N_zNKwVGJvJ9_NGc7ER5MIdgprqC-XVM)
-  - [Digital Infrastructure](https://drive.google.com/drive/folders/1nrY5RyNK03-798YZlrB1Tj23iXghQ6Me
+  - [Digital Infrastructure](https://drive.google.com/drive/folders/1nrY5RyNK03-798YZlrB1Tj23iXghQ6Me)
   - [Ecryption Tool](https://drive.google.com/drive/folders/1elY03qS8x2sgEZqwVSF8ZVDGIffmwv6E)
   - [Firewall Breach Scenario](https://drive.google.com/drive/folders/19Bjv-HgddPhd03_8DgCbnKMi5Kzlkg8I)
   - [Firewall Research](https://drive.google.com/drive/folders/1rCkiQtaruzPxOlScffgsy_H6nkF4SKTG)
